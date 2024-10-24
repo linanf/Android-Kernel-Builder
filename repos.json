@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "name": "capricorn",
+      "repo": "https://github.com/lithium-4-4-project/msm-4.4",
+      "branch": "eleven",
+      "device": "capricorn"
     },
     "withKernelSU": true,
     "toolchains": [
